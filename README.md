@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-IawAJ2S-yN)
-- Live Site URL: [Add live site URL here](https://main--resplendent-capybara-76578e.netlify.app/)
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-IawAJ2S-yN)]
+- Live Site URL: [[Add live site URL here](https://main--resplendent-capybara-76578e.netlify.app/)]]
 
 
 ### Built with
